@@ -1,0 +1,6 @@
+{
+  "name": "QuickSolve – Free Online Tools & Calculators",
+  "description": "Fast, accurate, and free online tools for financial calculations, student grades, dates, unit conversions, text editing, developer utilities, and image processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
